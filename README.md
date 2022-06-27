@@ -71,8 +71,6 @@ gcc decrypt.c -o decrypt
 
 ---
 
-![Repo views](https://gpvc.arturio.dev/bedzon94/Encryptions_Decryptions) 
-
 ## Author
 
  Norris Selorm Bedzo - [Norris](https://github.com/bedzon94)
