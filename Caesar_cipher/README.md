@@ -23,7 +23,7 @@ D(x) = (x-n) mod 26
 
 #include<stdlib.h>
 #include<string.h>
-#includestdbool.h>
+#include<stdbool.h>
 #include<ctype.h>
 
 ```
