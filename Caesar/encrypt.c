@@ -1,5 +1,8 @@
 #include<stdio.h>
-int main() {
+#include<stdlib.h>
+
+int main() 
+{
    FILE *inputFile, *outputFile;
    char ch;
 
