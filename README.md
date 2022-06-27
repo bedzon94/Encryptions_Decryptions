@@ -69,6 +69,9 @@ gcc decrypt.c -o decrypt
 
 ```
 
+---
+
+![Repo views](https://gpvc.arturio.dev/bedzon94/Encryptions_Decryptions) 
 
 ## Author
 
