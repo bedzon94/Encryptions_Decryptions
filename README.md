@@ -64,7 +64,9 @@ This program can be compiled as
 gcc encrypt.c -o encrypt
 
 &
+
 gcc decrypt.c -o decrypt
+
 ```
 
 
