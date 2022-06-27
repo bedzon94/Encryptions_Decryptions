@@ -4,8 +4,8 @@
 
 ## CAESAR CIPHER Formula
 
-E(x) = (x+n) mod 26
-D(x) = (x-n) mod 26
+- E(x) = (x+n) mod 26
+- D(x) = (x-n) mod 26
 
 
 ### How the program works
