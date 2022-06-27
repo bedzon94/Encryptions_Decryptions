@@ -70,4 +70,4 @@ gcc decrypt.c -o decrypt
 
 ## Author
 
-Norris Selorm Bedzo | (Norris)[https://github.com/bedzon94]
+ Norris Selorm Bedzo - [Norris](https://github.com/bedzon94)
