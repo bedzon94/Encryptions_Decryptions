@@ -48,7 +48,7 @@ decrypted and read.
 - A lot of attention needs to be given to your decryption algorithm to assure the speed is not hindering to the user of the application.
 
 
-Directories | Description
+Files | Description
 ----------- | -----------
 [Encrypt](./encrypt.c) | Encrypts text file passed to the program
 [Decrypt](./decrypt.c) | Decrypts text file passed to the program
