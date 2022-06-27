@@ -1,4 +1,4 @@
-# Encryptions_Decryptions
+# Encryptions and Decryptions
 This repo is a a simple project written in C language to solve a little problem on Encrypting and Decrypting test file passed to it
 
 
@@ -37,9 +37,37 @@ After all previous data has been removed, write a message back into the text fil
 be the time at which the message was decrypted.
 High-ranking officers should be able to see who viewed which messages and the time the messages were
 decrypted and read.
-Decryption process:
-Receive multiple lines of binary data in a text file.
-Each line of binary data has been encrypted, not necessarily with the same key. The keys that will be
-used will range from 1 to 8.
-Decrypt each line of binary and treat each line as a separate message.
-A lot of attention needs to be given to your decryption algorithm to assure the speed is not hindering
+
+---
+
+## Decryption process:
+- Receive multiple lines of binary data in a text file.
+- Each line of binary data has been encrypted, not necessarily with the same key. The keys that will be
+- used will range from 1 to 8.
+- Decrypt each line of binary and treat each line as a separate message.
+- A lot of attention needs to be given to your decryption algorithm to assure the speed is not hindering to the user of the application.
+
+
+Directories | Description
+----------- | -----------
+[Encrypt](./encrypt.c) | Encrypts text file passed to the program
+[Decrypt](./decrypt.c) | Decrypts text file passed to the program
+[Sample text file](./test_message.txt) | This is a sample text file
+
+
+---
+## Compilation
+
+This program can be compiled as
+
+```
+gcc encrypt.c -o encrypt
+
+&
+gcc decrypt.c -o decrypt
+```
+
+
+## Author
+
+Norris Selorm Bedzo | (Norris)[./https://github.com/bedzon94]
