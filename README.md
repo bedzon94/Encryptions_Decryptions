@@ -62,7 +62,7 @@ Files | Description
 ---
 ## Compilation
 
-This program can be compiled as
+This program can be compiled with:
 
 ```
 gcc encrypt.c -o encrypt
