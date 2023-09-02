@@ -21,7 +21,7 @@ int main (int argc, char *argv[])
 			{
 				valid_key = true;
 			}
-			// display usuage and terminate the program
+			// display usage and terminate the program
 			else
 			{
 				printf("Usage ./encrypt key\n");
@@ -52,7 +52,7 @@ int main (int argc, char *argv[])
 
 
 	}
-	// display usuage and terminate the program
+	// display usage and terminate the program
 
 	else
 	{
